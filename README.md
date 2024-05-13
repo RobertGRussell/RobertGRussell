@@ -4,7 +4,7 @@
 
 - 🥇 [CompTIA Security+ Certified](https://www.certmetrics.com/comptia/public/verification.aspx?code=405CTM64GRLLFW9Z)
 
-- 🌱 I’m currently looking for a full-time position in the field of Cybersecurity
+- 🌱 I’m currently looking for a full-time position in the Cybersecurity
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/robertgrusselliv)
 
