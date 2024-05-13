@@ -1,9 +1,8 @@
 ### Hello, I'm Robert! 👋
 
-
 - 🔭 I'm currently a part-time contractor for [Pro Football Focus](https://www.pff.com/) where I analyze NCAA Football film for professional and collegiate teams as well as subscribers
 
-- 🥇 CompTIA Security+ Certified
+- 🥇 [CompTIA Security+ Certified](https://www.certmetrics.com/comptia/public/verification.aspx?code=405CTM64GRLLFW9Z)
 
 - 🌱 I’m currently looking for a full-time position in the field of Cybersecurity
 
